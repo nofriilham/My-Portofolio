@@ -1,0 +1,45 @@
+[
+  {
+    "judul": "Air Terjun Ambun Suri",
+    "lokasi": "Air Terjun Unand, Padang",
+    "file": "gambar/air-terjun-ambunsuri.jpeg",
+    "alt": "Air Terjun tinggi di hutan Unand"
+  },
+  {
+    "judul": "Senja di Pantai",
+    "lokasi": "Pantai Air Manis, Padang",
+    "file": "gambar/sunset-pantaiairmanis.jpeg",
+    "alt": "Matahari terbenam di pantai berpasir basah, langit oranye di bawah awan gelap"
+  },
+
+  {
+    "judul": "Lautan Biru",
+    "lokasi": "Pantai Gondoriah, Pariaman",
+    "file": "gambar/pantai-gondoriah.jpeg",
+    "alt": "Ombak berbuih di lautan biru di bawah langit yang cerah"
+  },
+  {
+    "judul": "Air Terjun Bebatuan Lubuk Hitam",
+    "lokasi": "Kabung Utara, Kecamatan Bungus, Padang",
+    "file": "gambar/air-terjun-lubuk-hitam.jpeg",
+    "alt": "Air Terjun di bebatuan yang bertingkat"
+  },
+  {
+    "judul": "Kelapa Pantai",
+    "lokasi": "Pulau Pisang, Padang",
+    "file": "gambar/pulau-pisang.jpeg",
+    "alt": "Deretan pohon kelapa tinggi di tepi pantai"
+  },
+  {
+    "judul": "Langit Senja",
+    "lokasi": "Universitas Andalas, Padang",
+    "file": "gambar/sunset-unand.jpeg",
+    "alt": "Awan berwarna jingga dan ungu di langit senja di atas siluet pepohonan"
+  },
+  {
+    "judul": "Hutan Malibo Anai",
+    "lokasi": "Malibo Anai, Kayu Tanam",
+    "file": "gambar/hutan-maliboanai.jpeg",
+    "alt": "Pepohonan yang dilihat dari bawah dengan sinar matahari yang menembus dedaunan"
+  }
+]

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#1f5f7a" />
+    <script type="module" src="js/main.js" defer></script>
+    <title>Beranda</title>
+  </head>
+
+  <body>
+    <header class="site-header">
+      <nav aria-label="Navigasi utama">
+        <button type="button" id="tombol-tema" aria-pressed="false">
+          Ganti tema
+        </button>
+        <a href="index.html">Beranda</a>
+        <a href="profil.html">Profil</a>
+        <a href="kontak.html">Kontak</a>
+      </nav>
+      <a href="index.html" class="logo" aria-label="Beranda">
+        <img src="icons/icon-512x512.png" alt="" />
+      </a>
+    </header>
+
+    <main>
+      <section class="kingg">
+        <div class="kingg-text">
+          <h1>Halo, Saya Nofri!</h1>
+          <p>Mahasiswa Informatika Universitas Andalas</p>
+          <a href="kontak.html" class="tombol-kontak"> Hubungi Saya </a>
+        </div>
+
+        <div class="kingg-foto">
+          <img
+            src="gambar/profil.webp"
+            alt="Foto formal Nofri Ilham"
+            width="400"
+            height="533"
+          />
+        </div>
+      </section>
+
+      <section class="galeri" id="galeri-foto">
+        <h2>Galeri Foto</h2>
+
+        <p id="status-galeri" role="status"></p>
+
+        <div id="daftar-foto"></div>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2026 Nofri Ilham</p>
+    </footer>
+  </body>
+</html>
