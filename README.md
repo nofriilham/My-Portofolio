@@ -16,8 +16,20 @@ Galeri fotografi karya sendiri.
 
 ## Fitur yang berhasil
 
-- [tulis yang sudah kamu tes saja]
+- Halaman Beranda
+- Galeri Foto
+- Halaman Profil
+- Halaman Kontak
+- Mode ganti Tema
+- Responsive Desain
+- Service Worker
+- link untuk
 
 ## Fitur yang belum
 
-- [tulis jujur]
+- Icon menu Hamburger untuk Dekstop dan Mobile
+- Lightbox Galeri Foto
+- Simpan Preferensi tema
+- Form Kontak yang benar-benar berfungsi
+- Detail Informasi Foto
+- Detail Informasi Project
