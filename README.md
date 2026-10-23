@@ -5,7 +5,7 @@
 - Kelas: IF-A
 
 ## Tema
-
+Portofolio
 Galeri fotografi karya sendiri.
 
 ## Cara menjalankan
@@ -23,7 +23,6 @@ Galeri fotografi karya sendiri.
 - Mode ganti Tema
 - Responsive Desain
 - Service Worker
-- link untuk
 
 ## Fitur yang belum
 
